@@ -1,4 +1,5 @@
 /vendor
+/storage/aoc
 /.env
 /.idea
 /.vscode
