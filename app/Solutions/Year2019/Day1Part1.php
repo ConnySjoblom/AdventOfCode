@@ -8,7 +8,7 @@ class Day1Part1 extends Puzzle
 {
     protected string $puzzleName = "The Tyranny of the Rocket Equation";
 
-    protected string $puzzleAnswerDescription = 'Answer';
+    protected string $puzzleAnswerDescription = 'Fuel required';
 
     public function solve(): Puzzle
     {
