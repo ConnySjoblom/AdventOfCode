@@ -12,8 +12,6 @@ class Day2Part2 extends Puzzle
 
     public function solve(): Puzzle
     {
-        $found = false;
-
         for ($n = 0; $n < 100; $n++) {
             for ($v = 0; $v < 100; $v++) {
                 $memory = explode(",", $this->puzzleInput);
